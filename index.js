@@ -1,5 +1,5 @@
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮FLAZU BOT INC 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -58,11 +58,11 @@ say('FLAZU\nV4', {
     gradient: ['red', 'green']
   })
 Drips.hr();
-console.log(color(''), color('THANKS FOR CHOOSING ZIM BOT', 'green'))
+console.log(color(''), color('THANKS FOR CHOOSING FLAZU BOT', 'green'))
 console.log(color(''), color('SCRIPT BY DRIPS', 'red'))
 console.log(color( ''), color('https://wa.me/27634090203','cyan'))
 Drips.hr();
-Drips.banner(`DRIPS ZIM BOT OWNER`)
+Drips.banner(`DRIPS FLAZU BOT OWNER`)
 Drips.ok('WELCOME TO ZIMBOT')
 Drips.done('I WROTE THIS SCRIPT BY MYSELF')
 Drips.info('YOU WANNA CONTRUBUTE FEEL FREE TO CONTACT ME, BEING FRIENDLY IS MY LANGUAGE')
@@ -151,11 +151,11 @@ mentions: [num],
 fileName: `WELCOME TO ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©ZIM BOT INC 2022`,
+footer: `©FLAZU BOT INC 2022`,
 buttons: buttons,
 headerType: 4,
 contextInfo: { externalAdReply:{
-title:"ZIM BOT V4",
+title:"FLAZU BOT V4",
 body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
@@ -184,11 +184,11 @@ mentions: [num],
 fileName: `HE/SHE IS GONE BRO ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©ZIM BOT INC 2022`,
+footer: `©FLAZU BOT INC 2022`,
 buttons: buttons,
 headerType: 4,
 contextInfo: { externalAdReply:{
-title:"ZIM BOT V4",
+title:"FLAZU BOT V4",
 body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,

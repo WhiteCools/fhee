@@ -1,5 +1,5 @@
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮FLAZU BOT INC 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -40,7 +40,7 @@ global.premium = ['60196744618'] //premium number +27634090203
 global.pengguna = 'Drips' //username
 global.footer = 'FLAZU BOT'
 global.botnma = 'FLAZU BOT' //bot name
-global.botname = 'ZIM BOT V4'
+global.botname = 'FLAZU BOT V4'
 global.ownernma = 'Chuyo' //owner name
 global.packname = 'Chuyo' //sticker package name
 global.author = 'By Flazu Bot' //sticker author name
@@ -74,13 +74,13 @@ global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tru
 global.mess = {
     success: 'Takaenda Done!',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
+    botAdmin: '*FLAZU BOT  must be admin first!*',
     owner: '*this feature is only for zimbot owner*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
+    wait: '*whoa wait a moment FLAZU BOT proccessing*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
     noPetualang: '*you are not in rpg database type #joinrpg* _ur name_'
 }
