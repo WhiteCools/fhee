@@ -10,11 +10,11 @@
     }],
     "env": {
       "HEROKU_APP_NAME": {
-        "description": "Heroku app name, same as above entered",
+        "description": "flazuwa",
         "required": true
       },
       "HEROKU_API_KEY": {
-        "description": "Heroku account api key, https://dashboard.heroku.com/account",
+        "description": "6ae49a96-4ecb-4bc1-a238-01d9891eef18",
         "required": true
       }
     },
